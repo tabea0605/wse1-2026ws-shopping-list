@@ -1,2 +1,5 @@
 aepfel
-birnenx
+birnen
+bier
+kaffee
+leberkäse
