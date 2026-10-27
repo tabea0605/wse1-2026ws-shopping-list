@@ -3,3 +3,6 @@ birnen
 bier
 kaffee
 leberkäse
+chips
+käse
+wurst
