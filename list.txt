@@ -3,6 +3,8 @@ birnen
 bier
 kaffee
 leberkäse
+  -normal
+  -Käse
 chips
 käse
 wurst
