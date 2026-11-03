@@ -6,4 +6,8 @@ kaffee
 leberkäse
 chips
 käse
+tomaten
+gurkerl
+paprika
 wurst
+
